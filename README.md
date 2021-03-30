@@ -23,11 +23,8 @@ zostać o tym poinformowany oraz wyrazić ponownie zgodę i zaakceptować go.
 2. Użytkownik nie posiada zgody na publikację aplikacji Bubble oraz na udostępnianie
 jej zasobów, chyba że zezwolił na to twórca aplikacji (Titon).
 
-3. Użytkownik jest zobowiązany do przestrzegania regulaminu który akceptuje otwierając
-pliki tej aplikacji, a nieznajomość regulaminu nie zwalnia z jego przestrzegania.
+3. Użytkownik jest zobowiązany do przestrzegania licencji zawartej w pliku LICENSE.
 
-4. Regulamin apliikacji dostępny jest na stronie internetowej aplikacji.
-Link do strony mogą podać twórcy aplikacji Bubble.
 ----------------------------------------------------------------------------------------
 
 Licencja usługi zawarta jest w pliku LICENSE
@@ -38,4 +35,4 @@ Wspomóż nas!
 Aby bot Bubble lepiej i szybciej się rozwijał, wpłać dotację na konto podane
 poniżej:
 
-0000-0000-0000-000
+https://www.paypal.me/natanlipinski
