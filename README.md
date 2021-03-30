@@ -13,21 +13,18 @@ bubblebot@gmail.com
 
 
 
-Bubble Bot® License🔰
+Bubble® License 🔰
 --------------------------------------------------------------------------------------
-1. Używając zasobów aplikacji Bubble (software) akceptuje (on > użytkownik) regulamin
-aplikacji Bubble oraz warunki korzystania z usługi Bubble.
-Regulamin może zostać zmieniony w dowolnej chwili, jednak użytkownik musi
-zostać o tym poinformowany oraz wyrazić ponownie zgodę i zaakceptować go.
+Copyright 2021 Titon
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-2. Użytkownik nie posiada zgody na publikację aplikacji Bubble oraz na udostępnianie
-jej zasobów, chyba że zezwolił na to twórca aplikacji (Titon).
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-3. Użytkownik jest zobowiązany do przestrzegania licencji zawartej w pliku LICENSE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ----------------------------------------------------------------------------------------
 
-Licencja usługi zawarta jest w pliku LICENSE
+Licencja zawarta jest również w pliku LICENSE
 
 
 Wspomóż nas!
