@@ -192,7 +192,10 @@ module.exports = (client) => {
           return
         }
         
-
+        if (msg.content.includes("--copyright")) {
+          msg.channel.send("Bubble© 2020 - 2021")
+        }
+      
         // Anty-invite
         if (!msg.member.hasPermission('ADMINISTRATOR')) {
 
