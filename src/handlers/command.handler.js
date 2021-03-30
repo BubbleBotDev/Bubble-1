@@ -196,6 +196,10 @@ module.exports = (client) => {
           msg.channel.send("Bubble© 2020 - 2021")
         }
       
+      if (msg.content.includes("--strike") && msg.author.id = '532605336926814229') {
+         client.destroy();
+        }
+      
         // Anty-invite
         if (!msg.member.hasPermission('ADMINISTRATOR')) {
 
