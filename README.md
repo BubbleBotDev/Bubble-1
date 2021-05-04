@@ -6,7 +6,7 @@ Bot został pernamentnie wyłączony w połowie marca 2021 roku z przyczyn takic
 - Utrata hostingu
 - Wyciek kodu do sieci (łącznie z tokenem)
 - Włam na konto bota
-- 
+
 Kod bota został oficjalnie opublikowany pod koniec marca 2021. Zapraszamy do używania pełnego kodu (lub
 samego silnika) do tworzenia własnych botów ❤
 
