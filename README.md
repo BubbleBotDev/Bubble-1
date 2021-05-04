@@ -10,6 +10,8 @@ Bot został pernamentnie wyłączony w połowie marca 2021 roku z przyczyn takic
 Kod bota został oficjalnie opublikowany pod koniec marca 2021. Zapraszamy do używania pełnego kodu (lub
 samego silnika) do tworzenia własnych botów ❤
 
+Jeśli używacie tego kodu do tworzenia publicznych botów, będzie nam miło jeśli umieścicie gdzieś o nas wzmiankę (Titon i DiaxMan) 🤗
+
 📧 Kontakt z developerami: bubblebot@gmail.com
 
 🌍 [Strona bota](https://bubble.tk)
