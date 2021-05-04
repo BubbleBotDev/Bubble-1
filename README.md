@@ -1,19 +1,21 @@
 # Bubble
 
-Bot stworzony w discord.js przez Titona. Zawiera
-wiele przydatnych komend administracyjnych oraz 4fun. 
-Jest on w fazie testów, ale już przebywa na kilku dużych
-serwerach.
-Aby dowiedzieć się więcej, należy napisać wiadomość do twórców
-bota:
+Wielofunkcyjny bot discord opublikowany pod koniec grudnia 2020 roku.
+Ulepszona wersja starszego bota "Strażnika" od tych samych twórców, który został opublikowany w marcu 2020.
+Bot został pernamentnie wyłączony w połowie marca 2021 roku z przyczyn takich jak:
+- Utrata hostingu
+- Wyciek kodu do sieci (łącznie z tokenem)
+- Włam na konto bota
+- 
+Kod bota został oficjalnie opublikowany pod koniec marca 2021. Zapraszamy do używania pełnego kodu (lub
+samego silnika) do tworzenia własnych botów ❤
 
-bubblebot@gmail.com
+📧 Kontakt z developerami: bubblebot@gmail.com
 
-[![](https://bubble.tk/bubble.png)](https://bubble.tk)
+🌍 [Strona bota](https://bubble.tk)
 
 
-
-Bubble® License 🔰
+© Bubble
 --------------------------------------------------------------------------------------
 Copyright 2021 Titon
 
