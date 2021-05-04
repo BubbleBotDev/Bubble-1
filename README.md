@@ -16,6 +16,7 @@ Jeśli używacie tego kodu do tworzenia publicznych botów, będzie nam miło je
 
 🌍 [Strona bota](https://bubble.tk)
 
+Zapraszamy również na profil Weberowsky, który opublikował oryginalną wersję kodu z początku marca 2021: https://github.com/Weberowsky/Bubble-DiscordBot
 
 © Bubble
 --------------------------------------------------------------------------------------
