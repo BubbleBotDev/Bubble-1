@@ -13,6 +13,7 @@ samego silnika) do tworzenia własnych botów ❤
 Jeśli używacie tego kodu do tworzenia publicznych botów, będzie nam miło jeśli umieścicie gdzieś o nas wzmiankę (Titon i DiaxMan) 🤗
 
 📧 Kontakt z developerami: bubblebot@gmail.com
+🤝 Kontakt z supportem: support@bubble.tk
 
 🌍 [Strona bota](https://bubble.tk)
 
