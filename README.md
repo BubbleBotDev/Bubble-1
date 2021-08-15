@@ -1,26 +1,18 @@
 # Bubble
 
-Wielofunkcyjny bot discord opublikowany pod koniec grudnia 2020 roku.
-Ulepszona wersja starszego bota "Strażnika" od tych samych twórców, który został opublikowany w marcu 2020.
-Bot został pernamentnie wyłączony w połowie marca 2021 roku z przyczyn takich jak:
-- Utrata hostingu
-- Wyciek kodu do sieci (łącznie z tokenem)
-- Włam na konto bota
+📋 | Multifunctional Discord bot published at the end of December 2020. An improved version of the older "Guard" bot from the same developers, which was released in March 2020. The bot was permanently disabled in mid-March 2021 for reasons such as: - Loss of hosting - Code leak into the network (including the token) - Hack into a bot account The bot code was officially released at the end of March 2021. Feel free to use the full code (or same engine) to create your own bots ❤ If you use this code to create public bots, we will be glad if you mention us somewhere (Titon and DiaxMan) 🤗
 
-Kod bota został oficjalnie opublikowany pod koniec marca 2021. Zapraszamy do używania pełnego kodu (lub
-samego silnika) do tworzenia własnych botów ❤
+📧 | Contact the developers: bubblebot@gmail.com
 
-Jeśli używacie tego kodu do tworzenia publicznych botów, będzie nam miło jeśli umieścicie gdzieś o nas wzmiankę (Titon i DiaxMan) 🤗
+🤝 | Support the developers: support@bubble.tk
 
-📧 Kontakt z developerami: bubblebot@gmail.com
+🌍 | [Bot website](https://bubble.tk)
 
-🤝 Kontakt z supportem: support@bubble.tk
-
-🌍 [Strona bota](https://bubble.tk)
+💸 | Do you want to support the code creators? We invite you to pay by PayPal by email: natan.lipinski07@gmail.com or by bank transfer (for security reasons, please ask support for the account number)
 
 Zapraszamy również na profil Weberowsky, który opublikował oryginalną wersję kodu z początku marca 2021: https://github.com/Weberowsky/Bubble-DiscordBot
 
-© Bubble
+© 2020 - 2021 Bubble
 --------------------------------------------------------------------------------------
 Copyright 2021 Titon
 
