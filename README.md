@@ -4,7 +4,7 @@
 
 📧 | Contact the developers: bubblebot@gmail.com
 
-🤝 | Support the developers: support@bubble.tk
+🤝 | Contact the support: support@bubble.tk
 
 🌍 | [Bot website](https://bubble.tk)
 
@@ -27,9 +27,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Licencja zawarta jest również w pliku LICENSE
 
 
-Wspomóż nas!
+Donate us
 -------------------------------------------------------------------------------------
-Aby bot Bubble lepiej i szybciej się rozwijał, wpłać dotację na konto podane
-poniżej:
-
-https://www.paypal.me/natanlipinski
+PayPal > https://www.paypal.me/natanlipinski
